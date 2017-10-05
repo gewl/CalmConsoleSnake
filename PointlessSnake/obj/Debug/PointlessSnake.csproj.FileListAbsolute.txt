@@ -1,0 +1,6 @@
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\bin\Debug\PointlessSnake.exe.config
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\bin\Debug\PointlessSnake.exe
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\bin\Debug\PointlessSnake.pdb
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\obj\Debug\PointlessSnake.csprojResolveAssemblyReference.cache
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\obj\Debug\PointlessSnake.exe
+C:\Users\gewl\Desktop\PointlessSnake\PointlessSnake\PointlessSnake\obj\Debug\PointlessSnake.pdb
